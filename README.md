@@ -26,14 +26,14 @@ Create relevant insights that are not provided in the metric list/mock-up dashbo
 ![Monthly analysis Dashboard](https://github.com/Vin0th14/AtliQ-hospitality-analysis/assets/140651343/5b21eae8-f00d-4648-bbb7-0ff4edcaa7bf)
 
 # Things learned
-> Tried using color palette and stick with that colors throughout the dashboard.
-> Created new table to store all measures that will make everything organised.
-> By referring different cancellation polices followed by different hotels, understood that most of the hotels charge zero fee, only if the booking is cancelled before three months of booking date. If the booking is cancelled after that, the charge range from 60 to 90% of the booking cost.
+* Tried using color palette and stick with that colors throughout the dashboard.
+* Created new table to store all measures that will make everything organised.
+* By referring different cancellation polices followed by different hotels, understood that most of the hotels charge zero fee, only if the booking is cancelled before three months of booking date. If the booking is cancelled after that, the charge range from 60 to 90% of the booking cost.
 
 # Some important insights from dashboard
-> When comparing AtliQ Exotica to all seven types of properties, it performs better with 320 million in revenue, a rating of 3.62, an occupancy percentage of 57, and a cancellation rate of 24.4%.
-> Delhi leads in terms of rating and occupancy, followed by Hyderabad, Mumbai, and Bangalore.
-> Mumbai generates the highest revenue (669 M) followed by Bangalore, Hyderabad and Delhi
-> AtliQ Bay has the greatest occupancy rate, at 66%.
-> The majority of bookings and the highest cancellation rate are for elite-class accommodations.
+* When comparing AtliQ Exotica to all seven types of properties, it performs better with 320 million in revenue, a rating of 3.62, an occupancy percentage of 57, and a cancellation rate of 24.4%.
+* Delhi leads in terms of rating and occupancy, followed by Hyderabad, Mumbai, and Bangalore.
+* Mumbai generates the highest revenue (669 M) followed by Bangalore, Hyderabad and Delhi
+* AtliQ Bay has the greatest occupancy rate, at 66%.
+* The majority of bookings and the highest cancellation rate are for elite-class accommodations.
 
